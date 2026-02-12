@@ -1,5 +1,5 @@
-into the txt file <br>
 streamlit
 joblib
 numpy
+
 scikit-learn
